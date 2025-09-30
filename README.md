@@ -50,3 +50,6 @@ git push origin develop
 
 ### versions 
 ![versions](screen/versions.png)
+
+### process
+![how i do it](screen/cmd.png)
